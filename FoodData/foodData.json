@@ -1,0 +1,86 @@
+{
+    "meals":[
+        {
+            "strMeal": "Prawn Biriyani",
+            "strMealThumb":"https://static01.nyt.com/images/2018/10/10/dining/10Apperex1/merlin_144643311_b0fad675-8f0c-4323-9330-855f38273409-threeByTwoMediumAt2X.jpg",
+            "idMeal":"1",
+            "mealCost": 230 ,
+            "total": 1,
+            "category": "biriyani"
+        
+        },
+        {
+            "strMeal": "Chicken Biriyani",
+            "strMealThumb":"https://orangeandchillibiryani.com/wp-content/uploads/2019/07/Chicken-Dum-Biryani.jpg",
+            "idMeal":"2",
+            "mealCost": 200 ,
+            "total": 1,
+            "category": "biriyani"
+        
+        },
+        {
+            "strMeal": "Mutton Biriyani",
+            "strMealThumb":"https://artofpalate.com/wp-content/uploads/2020/06/mutton-biryani.jpg",
+            "idMeal":"3",
+            "mealCost": 350 ,
+            "total": 1,
+            "category": "biriyani"
+        
+        },
+        {
+            "strMeal": "Masala Dosa",
+            "strMealThumb":"https://apollosugar.com/wp-content/uploads/2018/12/Masala-Dosa-1024x683.jpg",
+            "idMeal":"4",
+            "mealCost": 60 ,
+            "total": 1,
+            "category": "breakfast"
+        
+        },
+        {
+            "strMeal": "Idli",
+            "strMealThumb":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ia3E9RgSk5nV00Gy7woiPQHaFN%26pid%3DApi&f=1&ipt=3149cdf8dc9fd3749bd8bf7f57ad6b5592f4a19e43322c1772f6b920b2a48da1&ipo=imagesI",
+            "idMeal":"5",
+            "mealCost": 35 ,
+            "total": 1,
+            "category": "breakfast"
+        
+        },
+        {
+            "strMeal": "Puri",
+            "strMealThumb":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/i2vvjdkldenqlimw43qo",
+            "idMeal":"6",
+            "mealCost": 55 ,
+            "total": 1,
+            "category": "breakfast"
+        
+        },
+        {
+            "strMeal": "Veg Thali",
+            "strMealThumb":"http://www.rasoisaga.com/wp-content/uploads/2020/07/DSC_5749-1536x1021.jpg",
+            "idMeal":"7",
+            "mealCost": 200 ,
+            "total": 1,
+            "category": "veg"
+        
+        },
+        {
+            "strMeal": "Palak Panneer",
+            "strMealThumb":"https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-1.jpg",
+            "idMeal":"8",
+            "mealCost": 150 ,
+            "total": 1,
+            "category": "veg"
+        
+        },
+        {
+            "strMeal": "Veg Pulao",
+            "strMealThumb":"https://www.istockphoto.com/photo/indian-vegetable-pulav-or-biryani-made-using-basmati-rice-served-in-a-ceramic-bowl-gm980079292-266292640",
+            "idMeal":"9",
+            "mealCost": 250 ,
+            "total": 1,
+            "category": "veg"
+        
+        }
+    ],
+    "cartItems":[]
+}
