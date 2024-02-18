@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AllFoodItems from './components/AllFoodItems';
 import Cart from './components/Cart';
 import Navbar from './components/NavBar';
-import Home from '../../foodie/src/pages/Home';
+import Home from './pages/Home';
 import { cartContext } from './context/CartContext';
 
 
